@@ -1,83 +1,86 @@
-# Hi there, I'm Tahmid ul Haque Choudhury 👋
+<div align="center">
+  <h1>Hi there, I'm Tahmid ul Haque Choudhury 👋</h1>
+</div>
 
-**Aspiring Backend Developer | AI & ML Enthusiast**
+<div align="center">
+  <a href="https://linkedin.com/in/tahmid019/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Tahmid019/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid019/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tahmid019/)
+I am currently studying Civil Engineering at National Institute of Technology Silchar. Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Deep Learning, I love to explore and work on innovative projects.
 
-## 🔧 Technologies & Skills
-- **Languages**: ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-- **Technologies and Libraries**: ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
-- **General Skills**: Project Management, Team Collaboration, Time Management
+## 🔭 Current Projects
+- **[LipSync Project](https://github.com/Tahmid019/LipSync-Project)** (June 2024 – Present)  
+  A React-based website with Python in the backend that translates educational videos into other languages with proper lip synchronization.  
+  *Tech Stack*: React.js, HTML, CSS, Python, Flask, SQL
 
-## 📚 Education
-- **National Institute of Technology Silchar**  
-  Bachelor of Technology | Civil Engineering (2023 - 2027)  
-  CGPA: 9.45/10.0
+- **[Flutter Based Portfolio](https://github.com/Tahmid019/Flutter-Portfolio)** (June 2024)  
+  Real-time updates on my career skills and achievements with voice control navigation.  
+  *Tech Stack*: Flutter, Dart
 
-- **Govt. V.M. H.S. School Hailakandi**  
-  Assam Higher Secondary Education Council (2022)  
-  Percentage: 84.00%
+- **[Audio and Video to Text Converter](https://github.com/Tahmid019/AV-Text-Converter)** (April 2024)  
+  Converts audio or video files to text format (speech-to-text) using Assembly AI API.  
+  *Tech Stack*: HTML, CSS, Python, Flask, Assembly AI API
 
-- **Spring Valley Central School Hailakandi**  
-  Central Board of Secondary Education (2020)  
-  Percentage: 91.00%
+- **[Revo - AI Powered Health Care and Assistance](https://github.com/Tahmid019/Revo-HealthCare)** (April 2024)  
+  An AI-powered assistant for daily life with features like audio recognition, image recognition, event management, and personalized interaction.  
+  *Tech Stack*: HTML, CSS, Python, Flask, Assembly AI API
 
-## 💼 Projects
+- **[Prediction Models](https://github.com/Tahmid019/Prediction-Models)** (Jan 2024 - Present)  
+  Implemented various machine learning models for property valuation, customer churn, employee turnover, and more.  
+  *Tech Stack*: TensorFlow, Keras, Python, Google Colab
 
-### [LipSync Project](https://github.com/Tahmid019/LipSync-Project)
-*June 2024 – Present*  
-A React-based website with Python backend to translate educational videos into other languages with proper lip synchronization.
-- **Tech Stack**: React-JS, HTML, CSS, Python, Flask, SQL
+## 🌱 Currently Learning
+- Backend Development
+- Artificial Intelligence (AI)
+- Machine Learning (ML)
+- Deep Learning
+- Natural Language Processing (NLP)
 
-### [Flutter Based Portfolio](https://github.com/Tahmid019/Flutter-Portfolio)
-*June 2024*  
-A cross-platform portfolio providing real-time updates on my career, skills, and achievements.
-- **Tech Stack**: Flutter, Dart
+## 💬 Ask me about
+- Project Management
+- Team Collaboration
+- Time Management
 
-### [Revo - AI Powered Health Care and Assistance](https://github.com/Tahmid019/Revo-HealthCare)
-*April 2024*  
-An AI-powered assistant for daily life with features like audio recognition, image recognition, event management, and personalized interaction.
-- **Tech Stack**: HTML, CSS, Python, Flask, Assembly AI API
+## 🛠 Skills and Tools
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### [Travel Application](https://github.com/Tahmid019/Travel-App)
-*April 2024*  
-A travel app built in Flutter featuring UI notifications, navigation, chatBot using Gemini API, and Firebase authentication.
-- **Tech Stack**: Flutter, Dart, Gemini API, Firebase
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahmid019&show_icons=true&theme=radical" alt="Tahmid's GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid019&layout=compact&theme=radical" alt="Top Languages" height="200">
+</div>
 
-### [Prediction Models](https://github.com/Tahmid019/Prediction-Models)
-*Jan 2024 - Present*  
-Implemented various machine learning models for property valuation, customer churn, employee turnover, and more.
-- **Tech Stack**: TensorFlow, Keras, Python, Google Colab
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid019&theme=radical" alt="GitHub Streak">
+</div>
 
-### [Audio and Video to Text Converter](https://github.com/Tahmid019/AV-Text-Converter)
-*April 2024*  
-A program that converts audio and video files to text format using ffmpeg and Python libraries.
-- **Tech Stack**: TensorFlow, Keras, Python, Google Colab, Speech_recognition, ffmpeg
-
-## 👨‍💼 Experiences
-- **Summer Intern** at IEEE Silchar Subsection (IS3IP-2024)
-  *June 2024 - Present*  
-  Contributed to project management, team collaboration, and time management on the EduSync project.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tahmid019&theme=radical" alt="GitHub Trophies">
+</div>
 
 ## 🏆 Achievements
-- **2nd place** in Hackathon-23 by GDSC for AI-powered e-Healthcare Website
-- **Kaggle Competitions**:
-  - Binary Classification with a Bank Churn DataSet (0.86 / 1.00 score)
-  - House Prices - Advanced Regression Techniques
-  - Titanic - Machine Learning from Disaster
+- 2nd place in Hackathon-23 by GDSC for AI-powered e-Healthcare Website
+- Binary Classification with a Bank Churn DataSet (Kaggle): 0.86 / 1.00 score
+- House Prices - Advanced Regression Techniques (Kaggle)
+- Titanic - Machine Learning from Disaster (Kaggle)
 
 ## 📜 Certifications
 - GDSC Android Development Workshop
 - Coursera: Deep Learning Course
 
-## 📊 GitHub Stats
-[![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahmid019&show_icons=true&theme=radical)](https://github.com/Tahmid019)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid019&layout=compact&theme=radical)](https://github.com/Tahmid019)
-
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/tahmid019/) or check out my projects on [GitHub](https://github.com/Tahmid019/).
-
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidchoudhury019@gmail.com)
-
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmid019@example.com)
