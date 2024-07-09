@@ -71,28 +71,13 @@ A program that converts audio and video files to text format using ffmpeg and Py
 - GDSC Android Development Workshop
 - Coursera: Deep Learning Course
 
+## 📊 GitHub Stats
+[![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahmid019&show_icons=true&theme=radical)](https://github.com/Tahmid019)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid019&layout=compact&theme=radical)](https://github.com/Tahmid019)
+
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/tahmid019/) or check out my projects on [GitHub](https://github.com/Tahmid019/).
+
 ## 📫 How to reach me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainakdas.dev@gmail.com)
-[![LinkedIn](https://linkedin.com/in/tahmid019/) 
-[![GitHub](https://github.com/Tahmid019/).
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidchoudhury019@gmail.com)
 
 
-
-
-
-
-
-<!--
-**tech-hunter-mainak/tech-hunter-mainak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
