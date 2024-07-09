@@ -73,8 +73,8 @@ A program that converts audio and video files to text format using ffmpeg and Py
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainakdas.dev@gmail.com)
-[LinkedIn](https://linkedin.com/in/tahmid019/) 
-[GitHub](https://github.com/Tahmid019/).
+[![LinkedIn](https://linkedin.com/in/tahmid019/) 
+[![GitHub](https://github.com/Tahmid019/).
 
 
 
