@@ -71,7 +71,14 @@ A program that converts audio and video files to text format using ffmpeg and Py
 - GDSC Android Development Workshop
 - Coursera: Deep Learning Course
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/tahmid019/) or check out my projects on [GitHub](https://github.com/Tahmid019/).
+## 📫 How to reach me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mainakdas.dev@gmail.com)
+[LinkedIn](https://linkedin.com/in/tahmid019/) 
+[GitHub](https://github.com/Tahmid019/).
+
+
+
+
 
 
 
