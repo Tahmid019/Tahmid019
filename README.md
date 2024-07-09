@@ -25,22 +25,22 @@
 
 ## 💼 Projects
 
-### [LipSync Project](https://github.com/Tahmid019/LipSync-Project)
+### [LipSync Project](http://lipsync.in)
 *June 2024 – Present*  
 A React-based website with Python backend to translate educational videos into other languages with proper lip synchronization.
 - **Tech Stack**: React-JS, HTML, CSS, Python, Flask, SQL
 
-### [Flutter Based Portfolio](https://github.com/Tahmid019/Flutter-Portfolio)
+### [Flutter Based Portfolio](https://tahmid-choudhury.netlify.app)
 *June 2024*  
 A cross-platform portfolio providing real-time updates on my career, skills, and achievements.
 - **Tech Stack**: Flutter, Dart
 
-### [Revo - AI Powered Health Care and Assistance](https://github.com/Tahmid019/Revo-HealthCare)
+### [Revo - AI Powered Health Care and Assistance](https://tahmid019.github.io/REVO/)
 *April 2024*  
 An AI-powered assistant for daily life with features like audio recognition, image recognition, event management, and personalized interaction.
 - **Tech Stack**: HTML, CSS, Python, Flask, Assembly AI API
 
-### [Travel Application](https://github.com/Tahmid019/Travel-App)
+### [Travel Application](https://github.com/Tahmid019/Travido)
 *April 2024*  
 A travel app built in Flutter featuring UI notifications, navigation, chatBot using Gemini API, and Firebase authentication.
 - **Tech Stack**: Flutter, Dart, Gemini API, Firebase
@@ -71,8 +71,30 @@ A program that converts audio and video files to text format using ffmpeg and Py
 - GDSC Android Development Workshop
 - Coursera: Deep Learning Course
 
-## 📊 GitHub Stats
-[![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tahmid019&show_icons=true&theme=radical)](https://github.com/Tahmid019)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid019&layout=compact&theme=radical)](https://github.com/Tahmid019)
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahmid019&show_icons=true&theme=radical" alt="Tahmid's GitHub Stats" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmid019&layout=compact&theme=radical" alt="Top Languages" height="200">
+</div>
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/tahmid019/) or check out my projects on [GitHub](https://github.com/Tahmid019/).
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahmid019&theme=radical" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tahmid019&theme=radical" alt="GitHub Trophies">
+</div>
+
+## 📫 How to reach me
+<div align="center">
+  <a href="mailto:tahmidchoudhury019@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://linkedin.com/in/tahmid019/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Tahmid019/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
