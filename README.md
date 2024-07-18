@@ -40,7 +40,7 @@ A cross-platform portfolio providing real-time updates on my career, skills, and
 An AI-powered assistant for daily life with features like audio recognition, image recognition, event management, and personalized interaction.
 - **Tech Stack**: HTML, CSS, Python, Flask, Assembly AI API
 
-### [Travel Application](https://github.com/Tahmid019/Travido)
+### [Travel Application](https://travido.netlify.app)
 *April 2024*  
 A travel app built in Flutter featuring UI notifications, navigation, chatBot using Gemini API, and Firebase authentication.
 - **Tech Stack**: Flutter, Dart, Gemini API, Firebase
